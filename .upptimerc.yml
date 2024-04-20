@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://woilu.net/assets/images/Woilu.png
   name: Woilu Website Status
   introTitle: "**Woilu** is part of Mineversal & owned by Al Khwarizmi."
-  introMessage: This is a status page which uses **real-time** data from our [Mineversal Status](https://github.com/Mineversal/Mineversal-Status). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a status page which uses **real-time** data from our [Woilu Status](https://github.com/WoiluID/Woilu-Status). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
