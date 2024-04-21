@@ -37,6 +37,6 @@ status-website:
       href: https://woilu.com
   favicon: https://woilu.net/assets/images/favicon.ico
   theme: light
-
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
