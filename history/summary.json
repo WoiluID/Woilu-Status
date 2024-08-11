@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/woilu.com.ico",
     "slug": "woilu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.62%",
+    "uptimeDay": "57.26%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.62%",
     "time": 160,
-    "timeDay": 123,
-    "timeWeek": 192,
-    "timeMonth": 167,
+    "timeDay": 0,
+    "timeWeek": 190,
+    "timeMonth": 166,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-08-10": 0
+      "2024-08-11": 50,
+      "2024-08-10": 566
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 155,
-    "timeWeek": 239,
-    "timeMonth": 177,
-    "timeYear": 157,
+    "time": 156,
+    "timeDay": 120,
+    "timeWeek": 231,
+    "timeMonth": 176,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 263,
-    "timeWeek": 281,
-    "timeMonth": 257,
-    "timeYear": 245,
+    "time": 244,
+    "timeDay": 180,
+    "timeWeek": 264,
+    "timeMonth": 260,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
